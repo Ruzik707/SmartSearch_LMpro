@@ -1,0 +1,5 @@
+[core]
+    no_scm = True
+    remote = my_remote
+['remote "my_remote"']
+    url = /home/ruzel/smart_search_dvc_storage

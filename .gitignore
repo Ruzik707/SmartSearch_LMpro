@@ -1,0 +1,13 @@
+.venv/
+venv/
+env/
+
+.idea/
+
+__pycache__/
+*.рус
+
+#data/chroma_db/
+data/*.jsonl
+
+.dvc/cache/

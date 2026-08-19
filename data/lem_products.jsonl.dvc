@@ -1,0 +1,5 @@
+outs:
+- md5: 2d94d65a5a32bc41502b9e1bad844510
+  size: 192038002
+  hash: md5
+  path: lem_products.jsonl
