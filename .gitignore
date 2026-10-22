@@ -11,3 +11,11 @@ __pycache__/
 data/*.jsonl
 
 .dvc/cache/
+
+# Local generated data and credentials
+data/chroma_db/
+data/embeddings/
+*.pyc
+.env
+.env.*
+!.env.example

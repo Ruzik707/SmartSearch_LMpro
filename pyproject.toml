@@ -1,7 +1,7 @@
 [project]
 name = "smartsearch"
 version = "0.1.0"
-description = "Add your description here"
+description = "Paused experimental product search with CLIP, ChromaDB and Streamlit"
 requires-python = ">=3.12"
 dependencies = [
     "beautifulsoup4>=4.15.0",
